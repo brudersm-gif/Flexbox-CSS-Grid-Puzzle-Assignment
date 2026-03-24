@@ -9,6 +9,7 @@
       section.flexbox-container {
           display:flex;
           flex-direction: row;
+          align-content: center;
         }
       section div.flex-item {
         flex: 1;
@@ -23,6 +24,10 @@
       <div class="flex-item">item2</div>
       <div class="flex-item">item3</div>
       <div class="flex-item">item4</div>
+      <div class="flex-item">item 5</div>
+      <div class="flex-item">item 6</div>
+      <div class="flex-item">item 7</div>
+      <div class="flex-item">item 8</div>
     </section>
   </body>
 </html>
