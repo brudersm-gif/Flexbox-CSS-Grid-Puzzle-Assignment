@@ -29,6 +29,14 @@
       <div class="flex-item"><img src="images/puzzle1_F.jpg" alt="puzzle piece"/></div>
       <div class="flex-item"><img src="images/puzzle1_G.jpg" alt="puzzle piece"/></div>
       <div class="flex-item"><img src="images/puzzle1_H.jpg" alt="puzzle piece"/></div>
+      <div class="flex-item"><img src="images/puzzle1_I.jpg" alt="puzzle piece"/></div>
+      <div class="flex-item"><img src="images/puzzle1_J.jpg" alt="puzzle piece"/></div>
+      <div class="flex-item"><img src="images/puzzle1_K.jpg" alt="puzzle piece"/></div>
+      <div class="flex-item"><img src="images/puzzle1_L.jpg" alt="puzzle piece"/></div>
+      <div class="flex-item"><img src="images/puzzle1_M.jpg" alt="puzzle piece"/></div>
+      <div class="flex-item"><img src="images/puzzle1_N.jpg" alt="puzzle piece"/></div>
+      <div class="flex-item"><img src="images/puzzle1_O.jpg" alt="puzzle piece"/></div>
+      <div class="flex-item"><img src="images/puzzle1_P.jpg" alt="puzzle piece"/></div>
     </section>
   </body>
 </html>
