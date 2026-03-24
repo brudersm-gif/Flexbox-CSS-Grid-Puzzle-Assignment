@@ -9,8 +9,7 @@
       section.flexbox-container {
           display:flex;
           flex-direction: row;
-          flex-wrap: wrap;
-          justify-content: center;
+          flex-wrap:wrap;
           max-width: 440px;
       }
       section div.flex-item {
