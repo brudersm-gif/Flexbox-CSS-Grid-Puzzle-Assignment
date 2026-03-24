@@ -10,13 +10,11 @@
           display:flex;
           flex-wrap: wrap;
           justify-content: center;
-        }
+      }
       section div.flex-item {
         flex: 1;
         text-align: center;
         background-color:lavender;
-        margin: 0px;
-        padding: 0px;
       }
     </style>
     <section class="flexbox-container">
