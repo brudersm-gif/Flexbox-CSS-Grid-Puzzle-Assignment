@@ -22,7 +22,7 @@
       }
     </style>
     <section class="flexbox-container">
-      <div class="flex-item">item1</div>
+      <div class="flex-item"><img src=""/></div>
       <div class="flex-item">item2</div>
       <div class="flex-item">item3</div>
       <div class="flex-item">item4</div>
