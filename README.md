@@ -8,6 +8,7 @@
     <style>
       section.flexbox-container {
           display:flex;
+          align-items: stretch;
           flex-direction: row;
           flex-wrap:wrap;
           max-width: 440px;
