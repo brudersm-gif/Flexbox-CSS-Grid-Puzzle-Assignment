@@ -21,14 +21,14 @@
       }
     </style>
     <section class="container1" style="display: flex;">
-      <div class="flex-item"><img src="images/puzzle1_A.jpg"/></div>
-      <div class="flex-item"><img src="images/puzzle1_A.jpg"/></div>
-      <div class="flex-item"><img src="images/puzzle1_A.jpg"/></div>
-      <div class="flex-item"><img src="images/puzzle1_A.jpg"/></div>
-      <div class="flex-item"><img src="images/puzzle1_A.jpg"/></div>
-      <div class="flex-item"><img src="images/puzzle1_A.jpg"/></div>
-      <div class="flex-item"><img src="images/puzzle1_A.jpg"/></div>
-      <div class="flex-item"><img src="images/puzzle1_A.jpg"/></div>
+      <div class="flex-item"><img src="images/puzzle1_A.jpg" alt="puzzle piece"/></div>
+      <div class="flex-item"><img src="images/puzzle1_B.jpg" alt="puzzle piece"/></div>
+      <div class="flex-item"><img src="images/puzzle1_C.jpg" alt="puzzle piece"/></div>
+      <div class="flex-item"><img src="images/puzzle1_D.jpg" alt="puzzle piece"/></div>
+      <div class="flex-item"><img src="images/puzzle1_E.jpg" alt="puzzle piece"/></div>
+      <div class="flex-item"><img src="images/puzzle1_F.jpg" alt="puzzle piece"/></div>
+      <div class="flex-item"><img src="images/puzzle1_G.jpg" alt="puzzle piece"/></div>
+      <div class="flex-item"><img src="images/puzzle1_H.jpg" alt="puzzle piece"/></div>
     </section>
   </body>
 </html>
