@@ -8,8 +8,7 @@
     <style>
       section.flexbox-container {
           display:flex;
-          align-content: center;
-          flex-wrap: wrap;
+          justify-content: center;
         }
       section div.flex-item {
         flex: 1;
