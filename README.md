@@ -14,7 +14,7 @@
         flex: 1;
         text-align: center;
         background-color:lavender;
-        margin: 5px;
+        margin: 0px;
         padding: 5px;
       }
     </style>
