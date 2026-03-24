@@ -9,7 +9,6 @@
       section.flexbox-container {
           display:flex;
           justify-content: center;
-          flex-wrap:wrap;
           max-width: 440px;
           height: 600px;
         }
@@ -19,6 +18,7 @@
         background-color:lavender;
         margin: 0px;
         padding: 0px;
+        flex-wrap: wrap;
       }
     </style>
     <section class="flexbox-container">
