@@ -8,7 +8,6 @@
     <style>
       section.flexbox-container {
           display:flex;
-          flex-direction: row;
           align-content: center;
           flex-wrap: wrap;
         }
