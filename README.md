@@ -3,6 +3,7 @@
   <head>
       <title>Flexbox CSS Grid Puzzle Assignment</title>
   </head>
+  <body>
     <style>
       section.container1 {
         display: flex;
@@ -29,4 +30,5 @@
       <div class="flex-item"><img src="images/puzzle1_A.jpg"/></div>
       <div class="flex-item"><img src="images/puzzle1_A.jpg"/></div>
     </section>
+  </body>
 </html>
