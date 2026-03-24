@@ -15,7 +15,7 @@
         text-align: center;
         background-color:lavender;
         margin: 0px;
-        padding: 5px;
+        padding: 0px;
       }
     </style>
     <section class="flexbox-container">
