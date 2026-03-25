@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Flexbox CSS Grid Puzzle Assignment - with Grid</title>
+	</head>
+	<body>
+		<style>
+			section div.flex-item {
+				flex: 1;
+				text-align: center;
+				width: 110px;
+				padding:1px;
+			}
+			section.container {
+				display: flex;
+				flex-wrap: wrap;
+				flex-direction:row;
+				width: 550px;
+				height: 600px;
+				align-content: center;
+				align-items: stretch;
+				padding: 0px;
+			}
+			section.grid-container {
+				display: grid;
+				grid-template-columns: repeat(3, 1fr);
+				grid-template-row: repeat(3, 1fr);
+				padding: 10px;
+			}
+			section div.grid-item {
+				font-family:Times, serf;
+				padding: 5px;
+				font-size: 1.4em;
+				text-align: center;
+			}
+			.grid-item1 {
+				padding: 1px;
+				font-size: 1.2em;
+				text-align: center;
+				font-weight:bold;
+				grid-column: 1 / span 3;
+				margin:auto;
+			}
+			.grid-item2 {
+				padding: 5px;
+				font-size: 1.2em;
+				text-align: center;
+				visibility: hidden;
+			}
+		</style>
+		
+		<section class="grid-container">
+			<div class="grid-item">Marie</div>
+			<div class="grid-item2">2</div>
+			<div class="grid-item">3/24/26</div>
+			<div class="grid-item2">4</div>
+			<div class="grid-item">Butterflies</div>
+			<div class="grid-item2">6</div>
+			<div class="grid-item1">
+				<section class="container" style="display: flex;">
+					<div class="flex-item">
+						<img src="images/puzzle1_Q.jpg"/>
+					</div>
+					<div class="flex-item">
+						<img src="images/puzzle1_G.jpg"/>
+					</div>
+					<div class="flex-item">
+						<img src="images/puzzle1_A.jpg"/>
+					</div>
+					<div class="flex-item">
+						<img src="images/puzzle1_J.jpg"/>
+					</div>
+					<div class="flex-item">
+						<img src="images/puzzle1_M.jpg"/>
+					</div>
+					<div class="flex-item">
+						<img src="images/puzzle1_P.jpg"/>
+					</div>
+					<div class="flex-item">
+						<img src="images/puzzle1_B.jpg"/>
+					</div>
+					<div class="flex-item">
+						<img src="images/puzzle1_H.jpg"/>
+					</div>
+					<div class="flex-item">
+						<img src="images/puzzle1_O.jpg"/>
+					</div>
+					<div class="flex-item">
+						<img src="images/puzzle1_E.jpg"/>
+					</div>
+					<div class="flex-item">
+						<img src="images/puzzle1_N.jpg"/>
+					</div>
+					<div class="flex-item">
+						<img src="images/puzzle1_C.jpg"/>
+					</div>
+					<div class="flex-item">
+						<img src="images/puzzle1_I.jpg"/>
+					</div>
+					<div class="flex-item">
+						<img src="images/puzzle1_F.jpg"/>
+					</div>
+					<div class="flex-item">
+						<img src="images/puzzle1_L.jpg"/>
+					</div>
+					<div class="flex-item">
+						<img src="images/puzzle1_K.jpg"/>
+					</div>
+					<div class="flex-item" style="display: none;">
+						<img src="images/puzzle1_D.jpg"/>
+					</div>
+				</section>
+			</div>
+		</section>
+	</body>
+</html>
